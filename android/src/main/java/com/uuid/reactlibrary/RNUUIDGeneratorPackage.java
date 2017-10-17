@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.uuid.reactlibrary;
 
 import java.util.Arrays;
 import java.util.Collections;

@@ -1,4 +1,4 @@
-package com.reactlibrary;
+package com.uuid.reactlibrary;
 
 import com.facebook.react.bridge.Callback;
 import com.facebook.react.bridge.ReactApplicationContext;
